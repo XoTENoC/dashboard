@@ -36,6 +36,141 @@
 					/>
 				</div>
 			</div>
+			<div class="flex flex-col gap-2">
+				<h6 class="uppercase text-xs text-neutral-400">
+					General
+				</h6>
+
+				<div class="flex flex-col gap-0.5">
+					<AtomsIconItem
+						v-for="(item, index) in generalItems"
+						:key="index"
+						:iconName="item.iconName"
+						:iconText="item.iconText"
+						:active="item.active"
+					/>
+				</div>
+			</div>
+			<div class="flex flex-col gap-2">
+				<h6 class="uppercase text-xs text-neutral-400">
+					General
+				</h6>
+
+				<div class="flex flex-col gap-0.5">
+					<AtomsIconItem
+						v-for="(item, index) in generalItems"
+						:key="index"
+						:iconName="item.iconName"
+						:iconText="item.iconText"
+						:active="item.active"
+					/>
+				</div>
+			</div>
+			<div class="flex flex-col gap-2">
+				<h6 class="uppercase text-xs text-neutral-400">
+					General
+				</h6>
+
+				<div class="flex flex-col gap-0.5">
+					<AtomsIconItem
+						v-for="(item, index) in generalItems"
+						:key="index"
+						:iconName="item.iconName"
+						:iconText="item.iconText"
+						:active="item.active"
+					/>
+				</div>
+			</div>
+			<div class="flex flex-col gap-2">
+				<h6 class="uppercase text-xs text-neutral-400">
+					General
+				</h6>
+
+				<div class="flex flex-col gap-0.5">
+					<AtomsIconItem
+						v-for="(item, index) in generalItems"
+						:key="index"
+						:iconName="item.iconName"
+						:iconText="item.iconText"
+						:active="item.active"
+					/>
+				</div>
+			</div>
+			<div class="flex flex-col gap-2">
+				<h6 class="uppercase text-xs text-neutral-400">
+					General
+				</h6>
+
+				<div class="flex flex-col gap-0.5">
+					<AtomsIconItem
+						v-for="(item, index) in generalItems"
+						:key="index"
+						:iconName="item.iconName"
+						:iconText="item.iconText"
+						:active="item.active"
+					/>
+				</div>
+			</div>
+			<div class="flex flex-col gap-2">
+				<h6 class="uppercase text-xs text-neutral-400">
+					General
+				</h6>
+
+				<div class="flex flex-col gap-0.5">
+					<AtomsIconItem
+						v-for="(item, index) in generalItems"
+						:key="index"
+						:iconName="item.iconName"
+						:iconText="item.iconText"
+						:active="item.active"
+					/>
+				</div>
+			</div>
+			<div class="flex flex-col gap-2">
+				<h6 class="uppercase text-xs text-neutral-400">
+					General
+				</h6>
+
+				<div class="flex flex-col gap-0.5">
+					<AtomsIconItem
+						v-for="(item, index) in generalItems"
+						:key="index"
+						:iconName="item.iconName"
+						:iconText="item.iconText"
+						:active="item.active"
+					/>
+				</div>
+			</div>
+			<div class="flex flex-col gap-2">
+				<h6 class="uppercase text-xs text-neutral-400">
+					General
+				</h6>
+
+				<div class="flex flex-col gap-0.5">
+					<AtomsIconItem
+						v-for="(item, index) in generalItems"
+						:key="index"
+						:iconName="item.iconName"
+						:iconText="item.iconText"
+						:active="item.active"
+					/>
+				</div>
+			</div>
+			<div class="flex flex-col gap-2">
+				<h6 class="uppercase text-xs text-neutral-400">
+					General
+				</h6>
+
+				<div class="flex flex-col gap-0.5">
+					<AtomsIconItem
+						v-for="(item, index) in generalItems"
+						:key="index"
+						:iconName="item.iconName"
+						:iconText="item.iconText"
+						:active="item.active"
+					/>
+				</div>
+			</div>
 
 			<div class="flex flex-col gap-2">
 				<h6 class="uppercase text-xs text-neutral-400">
